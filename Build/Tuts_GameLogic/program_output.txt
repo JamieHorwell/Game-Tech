@@ -1,0 +1,56 @@
+[14:39:11] Loading Shader:
+[14:39:11]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechVertexBasic.glsl
+[14:39:11]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechFragSuperSample.glsl
+[14:39:11]     -> Linking Shader: Success!
+[14:39:11] 
+[14:39:11] Loading Shader:
+[14:39:11]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechVertexShadow.glsl
+[14:39:11]     -> Compiling Shader: ../../Data/Shaders/Common/EmptyFragment.glsl
+[14:39:11]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechGeomShadow.glsl
+[14:39:11]     -> Linking Shader: Success!
+[14:39:11] 
+[14:39:11] Loading Shader:
+[14:39:11]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechVertexFull.glsl
+[14:39:11]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechFragForwardRender.glsl
+[14:39:11]     -> Linking Shader: Success!
+[14:39:11] 
+[14:39:11] Loading Shader:
+[14:39:11]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/PointVertex.glsl
+[14:39:11]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/PointFragment.glsl
+[14:39:11]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/PointGeometry.glsl
+[14:39:11]     -> Linking Shader: Success!
+[14:39:11] 
+[14:39:11] Loading Shader:
+[14:39:11]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/Vertex.glsl
+[14:39:11]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/Fragment.glsl
+[14:39:11]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/LineGeometry.glsl
+[14:39:11]     -> Linking Shader: Success!
+[14:39:11] 
+[14:39:11] Loading Shader:
+[14:39:11]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/VertexColOnly.glsl
+[14:39:11]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/Fragment.glsl
+[14:39:11]     -> Linking Shader: Success!
+[14:39:11] 
+[14:39:11] Loading Shader:
+[14:39:11]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/TextVertex.glsl
+[14:39:11]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/TextFragment.glsl
+[14:39:11]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/TextGeometry.glsl
+[14:39:11]     -> Linking Shader: Success!
+[14:39:11] 
+[14:39:11] Loading Shader:
+[14:39:11]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechVertexPicker.glsl
+[14:39:11]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechFragScreenPicker_nsightfix.glsl
+[14:39:11]     -> Linking Shader: Success!
+[14:39:11] 
+[14:39:11] [ERROR] CommonMeshes.cpp:28
+[14:39:11] 	  "Unable to load checkerboard texture!"
+[14:39:11] Loading Mesh: ../../Data/Meshes/cube.obj
+[14:39:11] 
+[14:39:11] Loading Mesh: ../../Data/Meshes/sphere.obj
+[14:39:11] 
+[14:39:11] [SceneManager] - Enqueued scene: "GameLogic Example #1 - Path Following"
+[14:39:11] 
+[14:39:11] [SceneManager] - Scene switched to: "GameLogic Example #1 - Path Following"
+[14:39:11] [SceneManager] - Enqueued scene: "GameLogic Example #2 - Angle Computation"
+[14:39:11] Loading Mesh: ../../Data/Meshes/raptor.obj
+[14:39:11]     -> Loading Texture: ../../Data/Textures/raptor.jpg

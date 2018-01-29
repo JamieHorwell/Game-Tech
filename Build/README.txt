@@ -1,0 +1,1 @@
+Please run in release mode x86 and set coursework server and coursework game tech coursework as multiple startup projects :) press 3 to fire balls in physics scenes
